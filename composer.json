@@ -14,11 +14,7 @@
     "yiisoft/yii2": "~2.0.0",
     "yiisoft/yii2-jui": "~2.0.0",
     "yiisoft/yii2-bootstrap": "~2.0.0"
-    "lajax/yii2-translate-manager": "*",
-    "kartik-v/yii2-grid": "*",
-    "2amigos/yii2-ckeditor-widget": "~1.0",
-    "integready/yii2-pagesize-widget": "*",
-    "integready/yii2-datepicker-widget": "*"
+    "lajax/yii2-translate-manager": "*"
   },
   "autoload": {
     "psr-4": {
