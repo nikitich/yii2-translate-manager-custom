@@ -1,0 +1,26 @@
+{
+  "name": "nikitich/yii2-translate-manager-custom",
+  "description": "Customization of lajax/yii2-translate-manager",
+  "keywords": ["yii", "admin", "i18n", "db"],
+  "type": "yii2-extension",
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "Nikitich",
+      "email": "nickotin.zp.ua@gmail.com"
+    }
+  ],
+  "require": {
+    "yiisoft/yii2": "~2.0.7",
+    "2amigos/yii2-ckeditor-widget": "~1.0",
+    "kartik-v/yii2-grid": "*",
+    "lajax/yii2-translate-manager": "*",
+    "integready/yii2-pagesize-widget": "*",
+    "integready/yii2-datepicker-widget": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "nikitich\\i18n\\": ""
+    }
+  }
+}
